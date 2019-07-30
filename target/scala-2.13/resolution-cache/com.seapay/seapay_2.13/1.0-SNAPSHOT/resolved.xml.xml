@@ -4,7 +4,7 @@
 		module="seapay_2.13"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20190729200910"
+		publication="20190728151503"
 	>
 		<description>
 		seapay

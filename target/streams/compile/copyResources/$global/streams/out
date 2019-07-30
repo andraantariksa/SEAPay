@@ -1,4 +1,4 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/andraantariksa/Projects/SEAPay/conf/routes,/home/andraantariksa/Projects/SEAPay/target/scala-2.13/classes/routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/andraantariksa/Projects/SEAPay/conf/logback.xml,/home/andraantariksa/Projects/SEAPay/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/andraantariksa/Projects/SEAPay/conf/application.conf,/home/andraantariksa/Projects/SEAPay/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/hsjsjsj009/Desktop/seapay/conf/routes,/home/hsjsjsj009/Desktop/seapay/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/hsjsjsj009/Desktop/seapay/conf/application.conf,/home/hsjsjsj009/Desktop/seapay/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/hsjsjsj009/Desktop/seapay/conf/logback.xml,/home/hsjsjsj009/Desktop/seapay/target/scala-2.13/classes/logback.xml)[0m
